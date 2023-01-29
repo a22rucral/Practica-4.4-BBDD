@@ -2,7 +2,7 @@
 
 1. IP DE LAS MAQUINAS EC2 
     * [3.80.23.111](https://3.80.23.111)
-    * [44.201.238.150]](https://44.201.238.150)
+    * [44.201.238.150](https://44.201.238.150)
 
 2. Archivo pdf  
     [PRACTICA4.4](BDruizcrespoalejandro-PR4.4.pdf)
