@@ -1,8 +1,8 @@
 # PRATICA 4.4 BBDD
 
 1. IP DEL BALANCEADOR
-    * [3.214.157.75](http://3.214.157.75)
-    * [BALANCEADOR](https://3.214.157.75/balancer-manager)
+    * [3.214.157.75](http://3.217.74.215)
+    * [BALANCEADOR](http://3.217.74.215/balancer-manager)
 
 2. Archivo pdf  
     [PRACTICA4.4](BDruizcrespoalejandro-PR4.4.pdf)
